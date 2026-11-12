@@ -1,0 +1,16 @@
+{
+  "uuid": "hhd-quick-settings@uraniumw.github.io",
+  "name": "Handheld Daemon Quick Settings",
+  "description": "Control Handheld Daemon from the GNOME quick settings menu. Click the main tile to open hhd-ui, or use the arrow to switch TDP power mode and fan mode.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51"
+  ],
+  "url": "https://github.com/UraniumW/gnome-hhd-quick-settings",
+  "version": 1
+}

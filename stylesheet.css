@@ -1,0 +1,35 @@
+/* SPDX-License-Identifier: GPL-3.0-or-later */
+
+/* Handheld Daemon quick settings */
+
+.hhd-menu-row {
+    padding: 2px 10px;
+}
+
+.hhd-row-box {
+    spacing: 6px;
+}
+
+.hhd-row-title {
+    font-size: 0.85em;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.hhd-mode-box {
+    spacing: 6px;
+}
+
+.hhd-mode-button {
+    padding: 5px 10px;
+    border-radius: 999px;
+}
+
+.hhd-mode-button:checked {
+    background-color: -st-accent-color;
+    color: -st-accent-fg-color;
+}
+
+.hhd-mode-button:insensitive {
+    color: rgba(255, 255, 255, 0.4);
+}
