@@ -29,6 +29,16 @@ The extension reads the hhd bearer token from `/tmp/hhd/token` and falls back to
 
 ## Install
 
+### From a release
+
+Download the latest `*.shell-extension.zip` from the
+[releases page](https://github.com/UraniumW/gnome-hhd-quick-settings/releases)
+and install it:
+
+```sh
+gnome-extensions install --force hhd-quick-settings@uraniumw.github.io.shell-extension.zip
+```
+
 ### From this repository
 
 ```sh
